@@ -31,6 +31,6 @@ class WatchmanEntity(CoordinatorEntity):
             name="Watchman",
             sw_version=VERSION,
             entry_type=DeviceEntryType.SERVICE,
-            configuration_url="https://github.com/dummylabs/thewatchman",
+            configuration_url="https://github.com/andreasbrett/thewatchman",
         )
         self._attr_extra_state_attributes = {}

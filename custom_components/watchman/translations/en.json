@@ -38,7 +38,7 @@
                     "ignored_states": "Comma-separated list of the states excluded from tracking",
                     "ignored_files": "Comma-separated list of config files excluded from tracking"
                 },
-                "description": "[Help on settings](https://github.com/dummylabs/thewatchman#configuration)"
+                "description": "[Help on settings](https://github.com/andreasbrett/thewatchman#configuration)"
             }
         }
     }

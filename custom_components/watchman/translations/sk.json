@@ -38,7 +38,7 @@
                     "ignored_states": "Čiarkami oddelený zoznam štátov vylúčených zo sledovania",
                     "ignored_files": "Čiarkami oddelený zoznam konfiguračných súborov vylúčených zo sledovania"
                 },
-                "description": "[Pomoc s nastaveniami](https://github.com/dummylabs/thewatchman#configuration)"
+                "description": "[Pomoc s nastaveniami](https://github.com/andreasbrett/thewatchman#configuration)"
             }
         }
     }

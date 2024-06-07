@@ -1,4 +1,4 @@
-"""https://github.com/dummylabs/thewatchman§"""
+"""https://github.com/andreasbrett/thewatchman§"""
 from datetime import timedelta
 import logging
 import os
