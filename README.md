@@ -12,9 +12,10 @@ The world around us is constantly changing and so is Home Assistant. How often h
 
 ## Quick start
 
-1. Go to the "Integrations" section on HACS, click "Explore and download repositories" and search for "watchman", then click "Download this repository with HACS".
-2. Restart Home Assistant, go to Settings->Devices and Services->Add Integration and select Watchman integration. If integration not found, try to empty your browser cache and reload page.
-3. Go to Developer Tools -> Services, type `watchman` and select `Watchman: report` service then press "Call Service" button. Check `watchman_report.txt` file in your configuration directory.
+1. Go to "Integrations" section in HACS, click the menu icon in the top right, and choose "Custom Repositories". Paste `andreasbrett/thewatchman` into the Repository field, and choose `Integration` for the category. Click Add.
+2. Again in the "Integrations" section in HACS, click "Explore and download repositories" and search for "watchman". Make sure to select this repo's version of Watchman (v0.6.2 or later), then click "Download this repository with HACS".
+3. Restart Home Assistant, go to Settings->Devices and Services->Add Integration and select Watchman integration. If integration not found, try to empty your browser cache and reload page.
+4. Go to Developer Tools -> Services, type `watchman` and select `Watchman: report` service then press "Call Service" button. Check `watchman_report.txt` file in your configuration directory.
 
 Refer to the [Configuration section](https://github.com/andreasbrett/thewatchman#configuration) for further fine-tuning.
 
