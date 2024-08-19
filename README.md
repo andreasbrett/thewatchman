@@ -1,6 +1,6 @@
 # The Watchman
 
-*Please note: this is a maintained fork of https://github.com/dummylabs/thewatchman. I created it since the original repo had become stale (no changes since 2023).*
+*Please note: ~~this is a maintained fork of https://github.com/dummylabs/thewatchman. I created it since the original repo had become stale (no changes since 2023).~~ This is no longer a maintained fork. @dummylabs started working on the original repo and included the changes of this repo.*
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 ![version](https://img.shields.io/github/v/release/andreasbrett/thewatchman)
